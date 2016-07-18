@@ -7,21 +7,21 @@ CND_BASEDIR=`pwd`
 CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
-CND_PLATFORM_Debug=Cygwin-Windows
-CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=grafos
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/grafos
-CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=grafos.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/grafos.tar
+CND_PLATFORM_Debug=MinGW_1-Windows
+CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW_1-Windows
+CND_ARTIFACT_NAME_Debug=grafo
+CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW_1-Windows/grafo
+CND_PACKAGE_DIR_Debug=dist/Debug/MinGW_1-Windows/package
+CND_PACKAGE_NAME_Debug=grafo.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/MinGW_1-Windows/package/grafo.tar
 # Release configuration
-CND_PLATFORM_Release=Cygwin-Windows
-CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=grafos
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/grafos
-CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=grafos.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/grafos.tar
+CND_PLATFORM_Release=MinGW_1-Windows
+CND_ARTIFACT_DIR_Release=dist/Release/MinGW_1-Windows
+CND_ARTIFACT_NAME_Release=grafo
+CND_ARTIFACT_PATH_Release=dist/Release/MinGW_1-Windows/grafo
+CND_PACKAGE_DIR_Release=dist/Release/MinGW_1-Windows/package
+CND_PACKAGE_NAME_Release=grafo.tar
+CND_PACKAGE_PATH_Release=dist/Release/MinGW_1-Windows/package/grafo.tar
 #
 # include compiler specific variables
 #
